@@ -26,7 +26,7 @@ public class Factors {
             }
         }
 
-        // Print factors
+     
         System.out.print("Factors of " + number + ": ");
         for (int i = 0; i < index; i++) {
             System.out.print(factors[i] + " ");
